@@ -1,0 +1,21 @@
+#btn-login {
+  background-color: aqua;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+#btn-login:hover {
+  background-color: greenyellow;
+  color: brown;
+}
+
+#btn-signup {
+  background-color: white;
+  border: 2px solid lightpink;
+  border-radius: 40px;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
