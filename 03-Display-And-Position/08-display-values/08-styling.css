@@ -1,0 +1,11 @@
+#google-image {
+  width: 280px;
+  height: 180px;
+  display: inline;
+}
+
+.menu {
+  display: block;
+  /* display:none;
+  visibility: hidden; */
+}
