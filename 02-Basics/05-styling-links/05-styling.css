@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+#links {
+  background-color: yellowgreen;
+  padding: 24px 108px;
+}
+
+.menu-items {
+  font-size: 48px;
+  text-decoration: overline;
+}
+
+.menu-items:link {
+  color: red;
+}
+
+.menu-items:visited {
+  color: magenta;
+}
+
+.menu-items:hover {
+  color: moccasin;
+}
+
+.menu-items:active {
+  color: black;
+}
