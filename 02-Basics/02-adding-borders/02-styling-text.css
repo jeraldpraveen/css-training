@@ -1,0 +1,13 @@
+#first-para {
+  border: 8px solid yellowgreen;
+  border-radius: 20px;
+}
+
+#second-para {
+  border-top-style: double;
+  border-right: 10px dashed brown;
+  border-left-style: solid;
+  border-bottom: 10px dotted brown;
+  border-width: 4px;
+  border-color: red;
+}
