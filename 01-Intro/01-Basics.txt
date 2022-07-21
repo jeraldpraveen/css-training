@@ -1,0 +1,4 @@
+We can add CSS in HTML by:
+1. Inline CSS
+2. Internal CSS
+3. External CSS

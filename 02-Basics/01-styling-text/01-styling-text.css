@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+p {
+  color: brown;
+  text-align: justify;
+  letter-spacing: 4px;
+  word-spacing: 25px;
+  line-height: 3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
