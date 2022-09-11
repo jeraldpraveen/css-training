@@ -1,0 +1,14 @@
+#text-shadow {
+  color: blue;
+  /* horizontal vertical blur color*/
+  text-shadow: 4px 4px 10px red;
+}
+
+#box-shadow {
+  color: green;
+  width: 300px;
+  height: 400px;
+  border-radius: 4px;
+  background-color: lightgray;
+  box-shadow: 20px 40px 10px yellow;
+}
