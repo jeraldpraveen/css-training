@@ -1,0 +1,16 @@
+article p {
+  background-color: aqua;
+  border: 5px solid;
+}
+
+div > p {
+  background-color: lightcoral;
+}
+
+h3 + p {
+  background-color: lightgoldenrodyellow;
+}
+
+h2 ~ p {
+  background-color: greenyellow;
+}
