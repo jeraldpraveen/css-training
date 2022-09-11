@@ -1,0 +1,42 @@
+#span1 {
+  background-color: aqua;
+  height: 100px;
+  width: 200px;
+}
+
+#span2 {
+  background-color: green;
+  height: 100px;
+  width: 200px;
+  display: inline-block;
+}
+
+header {
+  background-color: lightblue;
+  height: 80px;
+  position: sticky;
+  top: 0;
+}
+
+footer {
+  background-color: lightgray;
+  height: 450px;
+}
+
+main {
+  padding: 16px 10%;
+}
+
+aside {
+  background-color: lightcoral;
+  margin-right: 1%;
+  height: 300px;
+  width: 29%;
+  display: inline-block;
+}
+section {
+  background-color: burlywood;
+  height: 300px;
+  width: 690%;
+  display: inline-block;
+}

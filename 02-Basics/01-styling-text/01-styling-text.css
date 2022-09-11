@@ -10,8 +10,8 @@ h1 {
 p {
   color: brown;
   text-align: justify;
-  letter-spacing: 4px;
-  word-spacing: 25px;
-  line-height: 3;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  line-height: 1.2;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
